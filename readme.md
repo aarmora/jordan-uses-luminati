@@ -6,7 +6,7 @@ This package has some sample code using [Luminati.io](https://luminati.io/?affil
 
 Clone the repository and run `npm i`. 
 
-You'll need to get credentials from [Luminati.io]https://luminati.io/?affiliate=ref_5f240848c7669177abf8ef2a) and rename `.sample.env` file to `.env` and place your credentials there.
+You'll need to get credentials from [Luminati.io](https://luminati.io/?affiliate=ref_5f240848c7669177abf8ef2a) and rename `.sample.env` file to `.env` and place your credentials there.
 
 When you want to use the proxy, leave `prod=true` in the .env file. When you do not, just remove `prod=true`.
 
