@@ -1,6 +1,6 @@
 # Jordan Uses Luminati
 
-This package has some sample code using [Luminati.io](https://luminati.io/?affiliate=ref_5f240848c7669177abf8ef2a). Positionstack is an API that is extremely easy to use for any kind of location or geocoding.
+This package has some sample code using [Luminati.io](https://luminati.io/?affiliate=ref_5f240848c7669177abf8ef2a).
 
 ## Getting Started
 
